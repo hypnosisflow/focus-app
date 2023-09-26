@@ -47,7 +47,7 @@ export const Emojis = () => {
               <span
                 className={`transition-all duration-300 ${
                   emojisList?.has(item.emoji)
-                    ? "text-5xl bg-black/50 rounded-full"
+                    ? "text-5xl rounded-full"
                     : "text-3xl "
                 }`}
               >
