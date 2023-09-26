@@ -7,20 +7,14 @@ personal tool for researching correlation between mood and productivity with sim
 https://focus-777.vercel.app/
 
 ## tools
-```mern stack
-   vite
-   typescript
-   context api
-   axios
-   jwt auth
-   rest api 
-   react dnd
-   grahp.js
+```
+mern stack 
+vite typescript context-api axios jwt-auth rest-api react-dnd grahp.js 
 ```
 
 ## install
 ```js
-   focus-app\server> npm i
+focus-app\server> npm i
 ```
 
 ## start server
@@ -32,15 +26,15 @@ port: 5050
 
 ## run client 
 ```js
-   focus-app\client> npm i
+focus-app\client> npm i
 ```
 
 ## run 
 ```js
-   focus-app\client> npm run dev
+focus-app\client> npm run dev
 ```
 
-<center><img src="./images/mood-mob.jpg" alt="screenshot" width=400 center/></center>
+<center><img src="./client/images/mood-mob.jpg" alt="screenshot" width=400 center/></center>
 
 features and flow
 
